@@ -23,9 +23,9 @@ export default {
   root: "src",
 
   // Some additional configuration options and their defaults:
-  // theme: "default", // try "light", "dark", "slate", etc.
+  theme: "dark",// "default", // try "light", "dark", "slate", etc.
   // header: "", // what to show in the header (HTML)
-  // footer: "Built with Observable.", // what to show in the footer (HTML)
+  footer: "Built with Observable.", // what to show in the footer (HTML)
   // sidebar: true, // whether to show the sidebar
   // toc: true, // whether to show the table of contents
   // pager: true, // whether to show previous & next links in the footer
